@@ -1,2 +1,2 @@
-This is a rendom password generator simple code in python
+This is a random password generator simple code in python
 - by Anurag 
